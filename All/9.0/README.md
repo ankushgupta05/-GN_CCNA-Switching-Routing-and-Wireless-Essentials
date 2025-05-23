@@ -114,4 +114,148 @@ Let me know if you want more detailed explanations!
 
 
 
+Sure! Here’s the full quiz with **all options** and the **correct answers** marked clearly:
+
+---
+
+### Question 1
+
+**What is the purpose of HSRP?**
+
+* ⬜ It prevents a rogue switch from becoming the STP root.
+* ⬜ It enables an access port to immediately transition to the forwarding state.
+* ⬜ It prevents malicious hosts from connecting to trunk ports.
+* **✅ It provides a continuous network connection when a router fails.**
+
+---
+
+### Question 2
+
+**Which nonproprietary protocol provides router redundancy for a group of routers which support IPv4 LANs?**
+
+* ⬜ HSRP
+* **✅ VRRPv2**
+* ⬜ GLBP
+* ⬜ SLB
+
+---
+
+### Question 3
+
+**A network administrator is analyzing first-hop router redundancy protocols. What is a characteristic of VRRPv3?**
+
+* ⬜ VRRPv3 is Cisco proprietary.
+* **✅ It supports IPv6 and IPv4 addressing.**
+* ⬜ It works together with HSRP.
+* ⬜ It allows load balancing between routers.
+
+---
+
+### Question 4
+
+**What is a potential disadvantage when implementing HSRP as compared to GLBP?**
+
+* ⬜ HSRP does not function in a multivendor environment.
+* **✅ HSRP does not provide load balancing with multiple active routers.**
+* ⬜ HSRP does not have the capability to support IPv6 addresses.
+* ⬜ HSRP provides default gateway failover only when the active router fails.
+
+---
+
+### Question 5
+
+**A network engineer is configuring a LAN with a redundant first hop to make better use of the available network resources. Which protocol should the engineer implement?**
+
+* ⬜ FHRP
+* **✅ GLBP**
+* ⬜ HSRP
+* ⬜ VRRP
+
+---
+
+### Question 6
+
+**When first hop redundancy protocols are used, which two items will be shared by a set of routers that are presenting the illusion of being a single router? (Choose two.)**
+
+* ⬜ Hostname
+* **✅ IP address**
+* ⬜ BID
+* ⬜ Static route
+* **✅ MAC address**
+
+---
+
+### Question 7
+
+**In FHRP terminology, what represents a set of routers that present the illusion of a single router to hosts?**
+
+* ⬜ Standby router
+* **✅ Virtual router**
+* ⬜ Forwarding router
+* ⬜ Default gateway
+
+---
+
+### Question 8
+
+**A user needs to add redundancy to the routers in a company. What are the three options the user can use? (Choose three.)**
+
+* **✅ HSRP**
+* **✅ VRRP**
+* ⬜ STP
+* ⬜ IPFIX
+* ⬜ RAID
+* **✅ GLBP**
+
+---
+
+### Question 9
+
+**Which two protocols provide gateway redundancy at Layer 3? (Choose two.)**
+
+* **✅ VRRP**
+* ⬜ STP
+* ⬜ PVST
+* ⬜ RSTP
+* **✅ HSRP**
+
+---
+
+### Question 10
+
+**A network administrator is overseeing the implementation of first hop redundancy protocols. Which two protocols are Cisco proprietary? (Choose two.)**
+
+* **✅ HSRP**
+* ⬜ VRRP
+* **✅ GLBP**
+* ⬜ IRDP
+* ⬜ VRRPv2
+
+---
+
+### Question 11
+
+**Which statement describes a characteristic of GLBP?**
+
+* ⬜ It does not provide support for IPv6.
+* **✅ It provides load balancing for a maximum of four gateways.**
+* ⬜ It provides multiple virtual IP addresses and multiple virtual MAC addresses.
+* ⬜ It provides automatic rerouting if any router in the group fails.
+
+---
+
+### Question 12
+
+**A network administrator is analyzing the features that are supported by different first-hop router redundancy protocols. Which statement is a feature that is associated with GLBP?**
+
+* **✅ GLBP allows load balancing between routers.**
+* ⬜ It is nonproprietary.
+* ⬜ It uses a virtual router master.
+* ⬜ It works together with VRRP.
+
+---
+
+If you want, I can also add explanations for the answers!
+
+
 
